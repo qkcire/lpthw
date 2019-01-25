@@ -2,7 +2,7 @@
 - [x] Exercise 2: Comments And Pound Characters
 - [x] Exercise 3: Numbers And Math
 - [x] Exercise 4: Variables And Names
-- [ ] Exercise 5: More Variables And Printing
+- [x] Exercise 5: More Variables And Printing
 - [ ] Exercise 6: Strings And Text
 - [ ] Exercise 7: More Printing
 - [ ] Exercise 8: Printing, Printing
