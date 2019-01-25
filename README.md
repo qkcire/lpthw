@@ -1,7 +1,7 @@
 - [x] Exercise 1: A Good First Program
-- [X] Exercise 2: Comments And Pound Characters
-- [ ] Exercise 3: Numbers And Math
-- [ ] Exercise 4: Variables And Names
+- [x] Exercise 2: Comments And Pound Characters
+- [x] Exercise 3: Numbers And Math
+- [x] Exercise 4: Variables And Names
 - [ ] Exercise 5: More Variables And Printing
 - [ ] Exercise 6: Strings And Text
 - [ ] Exercise 7: More Printing
