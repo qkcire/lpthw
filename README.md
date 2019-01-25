@@ -8,7 +8,7 @@
 - [x] Exercise 8: Printing, Printing
 - [x] Exercise 9: Printing, Printing, Printing
 - [x] Exercise 10: What Was That?
-- [ ] Exercise 11: Asking Questions
+- [x] Exercise 11: Asking Questions
 - [ ] Exercise 12: Prompting People
 - [ ] Exercise 13: Parameters, Unpacking, Variables
 - [ ] Exercise 14: Prompting And Passing
