@@ -1,5 +1,5 @@
 - [x] Exercise 1: A Good First Program
-- [ ] Exercise 2: Comments And Pound Characters
+- [X] Exercise 2: Comments And Pound Characters
 - [ ] Exercise 3: Numbers And Math
 - [ ] Exercise 4: Variables And Names
 - [ ] Exercise 5: More Variables And Printing
