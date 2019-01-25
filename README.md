@@ -5,7 +5,7 @@
 - [x] Exercise 5: More Variables And Printing
 - [x] Exercise 6: Strings And Text
 - [x] Exercise 7: More Printing
-- [ ] Exercise 8: Printing, Printing
+- [x] Exercise 8: Printing, Printing
 - [ ] Exercise 9: Printing, Printing, Printing
 - [ ] Exercise 10: What Was That?
 - [ ] Exercise 11: Asking Questions
