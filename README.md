@@ -4,7 +4,7 @@
 - [x] Exercise 4: Variables And Names
 - [x] Exercise 5: More Variables And Printing
 - [x] Exercise 6: Strings And Text
-- [ ] Exercise 7: More Printing
+- [x] Exercise 7: More Printing
 - [ ] Exercise 8: Printing, Printing
 - [ ] Exercise 9: Printing, Printing, Printing
 - [ ] Exercise 10: What Was That?
