@@ -18,7 +18,7 @@
 - [x] Exercise 18: Names, Variables, Code, Functions
 - [x] Exercise 19: Functions And Variables
 - [x] Exercise 20: Functions And Files
-- [ ] Exercise 21: Functions Can Return Something
+- [x] Exercise 21: Functions Can Return Something
 - [ ] Exercise 22: What Do You Know So Far?
 - [ ] Exercise 23: Strings, Bytes, and Character Encodings
 - [ ] Exercise 24: More Practice
