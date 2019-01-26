@@ -10,7 +10,7 @@
 - [x] Exercise 10: What Was That?
 - [x] Exercise 11: Asking Questions
 - [x] Exercise 12: Prompting People
-- [ ] Exercise 13: Parameters, Unpacking, Variables
+- [x] Exercise 13: Parameters, Unpacking, Variables
 - [ ] Exercise 14: Prompting And Passing
 - [ ] Exercise 15: Reading Files
 - [ ] Exercise 16: Reading And Writing Files
