@@ -15,7 +15,7 @@
 - [x] Exercise 15: Reading Files
 - [x] Exercise 16: Reading And Writing Files
 - [x] Exercise 17: More Files
-- [ ] Exercise 18: Names, Variables, Code, Functions
+- [x] Exercise 18: Names, Variables, Code, Functions
 - [ ] Exercise 19: Functions And Variables
 - [ ] Exercise 20: Functions And Files
 - [ ] Exercise 21: Functions Can Return Something
