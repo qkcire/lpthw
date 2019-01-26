@@ -13,7 +13,7 @@
 - [x] Exercise 13: Parameters, Unpacking, Variables
 - [x] Exercise 14: Prompting And Passing
 - [x] Exercise 15: Reading Files
-- [ ] Exercise 16: Reading And Writing Files
+- [x] Exercise 16: Reading And Writing Files
 - [ ] Exercise 17: More Files
 - [ ] Exercise 18: Names, Variables, Code, Functions
 - [ ] Exercise 19: Functions And Variables
