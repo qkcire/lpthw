@@ -19,7 +19,7 @@
 - [x] Exercise 19: Functions And Variables
 - [x] Exercise 20: Functions And Files
 - [x] Exercise 21: Functions Can Return Something
-- [ ] Exercise 22: What Do You Know So Far?
+- [x] Exercise 22: What Do You Know So Far?
 - [ ] Exercise 23: Strings, Bytes, and Character Encodings
 - [ ] Exercise 24: More Practice
 - [ ] Exercise 25: Even More Practice
