@@ -23,7 +23,7 @@
 - [x] Exercise 23: Strings, Bytes, and Character Encodings
 - [x] Exercise 24: More Practice
 - [x] Exercise 25: Even More Practice
-- [ ] Exercise 26: Congratulations, Take A Test!
+- [x] Exercise 26: Congratulations, Take A Test!
 - [ ] Exercise 27: Memorizing Logic
 - [ ] Exercise 28: Boolean Practice
 - [ ] Exercise 29: What If
