@@ -24,7 +24,7 @@
 - [x] Exercise 24: More Practice
 - [x] Exercise 25: Even More Practice
 - [x] Exercise 26: Congratulations, Take A Test!
-- [ ] Exercise 27: Memorizing Logic
+- [x] Exercise 27: Memorizing Logic
 - [ ] Exercise 28: Boolean Practice
 - [ ] Exercise 29: What If
 - [ ] Exercise 30: Else And If
