@@ -21,7 +21,7 @@
 - [x] Exercise 21: Functions Can Return Something
 - [x] Exercise 22: What Do You Know So Far?
 - [x] Exercise 23: Strings, Bytes, and Character Encodings
-- [ ] Exercise 24: More Practice
+- [x] Exercise 24: More Practice
 - [ ] Exercise 25: Even More Practice
 - [ ] Exercise 26: Congratulations, Take A Test!
 - [ ] Exercise 27: Memorizing Logic
