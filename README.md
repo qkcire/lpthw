@@ -26,7 +26,7 @@
 - [x] Exercise 26: Congratulations, Take A Test!
 - [x] Exercise 27: Memorizing Logic
 - [x] Exercise 28: Boolean Practice
-- [ ] Exercise 29: What If
+- [x] Exercise 29: What If
 - [ ] Exercise 30: Else And If
 - [ ] Exercise 31: Making Decisions
 - [ ] Exercise 32: Loops And Lists
