@@ -22,7 +22,7 @@
 - [x] Exercise 22: What Do You Know So Far?
 - [x] Exercise 23: Strings, Bytes, and Character Encodings
 - [x] Exercise 24: More Practice
-- [ ] Exercise 25: Even More Practice
+- [x] Exercise 25: Even More Practice
 - [ ] Exercise 26: Congratulations, Take A Test!
 - [ ] Exercise 27: Memorizing Logic
 - [ ] Exercise 28: Boolean Practice
