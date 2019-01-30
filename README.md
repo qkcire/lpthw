@@ -34,7 +34,7 @@
 - [x] Exercise 34: Accessing Elements Of Lists
 - [x] Exercise 35: Branches and Functions
 - [x] Exercise 36: Designing and Debugging
-- [ ] Exercise 37: Symbol Review
+- [x] Exercise 37: Symbol Review
 - [ ] Exercise 38: Doing Things To Lists
 - [ ] Exercise 39: Dictionaries, Oh Lovely Dictionaries
 - [ ] Exercise 40: Modules, Classes, And Objects
