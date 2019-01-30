@@ -30,7 +30,7 @@
 - [x] Exercise 30: Else And If
 - [x] Exercise 31: Making Decisions
 - [x] Exercise 32: Loops And Lists
-- [ ] Exercise 33: While Loops
+- [x] Exercise 33: While Loops
 - [ ] Exercise 34: Accessing Elements Of Lists
 - [ ] Exercise 35: Branches and Functions
 - [ ] Exercise 36: Designing and Debugging
