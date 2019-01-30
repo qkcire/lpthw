@@ -33,7 +33,7 @@
 - [x] Exercise 33: While Loops
 - [x] Exercise 34: Accessing Elements Of Lists
 - [x] Exercise 35: Branches and Functions
-- [ ] Exercise 36: Designing and Debugging
+- [x] Exercise 36: Designing and Debugging
 - [ ] Exercise 37: Symbol Review
 - [ ] Exercise 38: Doing Things To Lists
 - [ ] Exercise 39: Dictionaries, Oh Lovely Dictionaries
