@@ -35,7 +35,7 @@
 - [x] Exercise 35: Branches and Functions
 - [x] Exercise 36: Designing and Debugging
 - [x] Exercise 37: Symbol Review
-- [ ] Exercise 38: Doing Things To Lists
+- [x] Exercise 38: Doing Things To Lists
 - [ ] Exercise 39: Dictionaries, Oh Lovely Dictionaries
 - [ ] Exercise 40: Modules, Classes, And Objects
 - [ ] Exercise 41: Learning To Speak Object Oriented
