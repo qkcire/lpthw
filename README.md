@@ -37,7 +37,7 @@
 - [x] Exercise 37: Symbol Review
 - [x] Exercise 38: Doing Things To Lists
 - [x] Exercise 39: Dictionaries, Oh Lovely Dictionaries
-- [ ] Exercise 40: Modules, Classes, And Objects
+- [x] Exercise 40: Modules, Classes, And Objects
 - [ ] Exercise 41: Learning To Speak Object Oriented
 - [ ] Exercise 42: Is-A, Has-A, Objects, and Classes
 - [ ] Exercise 43: Gothons From Planet Percal #25
