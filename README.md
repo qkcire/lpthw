@@ -40,7 +40,7 @@
 - [x] Exercise 40: Modules, Classes, And Objects
 - [x] Exercise 41: Learning To Speak Object Oriented
 - [x] Exercise 42: Is-A, Has-A, Objects, and Classes
-- [ ] Exercise 43: Gothons From Planet Percal #25
+- [x] Exercise 43: Gothons From Planet Percal #25
 - [ ] Exercise 44: Inheritance Vs. Composition
 - [ ] Exercise 45: You Make A Game
 - [ ] Exercise 46: A Project Skeleton
